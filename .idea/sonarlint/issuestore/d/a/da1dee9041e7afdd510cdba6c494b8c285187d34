@@ -1,0 +1,5 @@
+
+l	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å‰ªn8èÛ¼Êø1
+j	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èµÃ8²Ü¼Êø1
+e
+java:S1128"HRemove this unused import 'javafx.beans.property.SimpleIntegerProperty'.(©Ú¡8ÂÜ¼Êø1

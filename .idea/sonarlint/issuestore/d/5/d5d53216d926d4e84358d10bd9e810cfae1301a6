@@ -1,0 +1,25 @@
+
+Q
+java:S3740m"/Provide the parametrized type for this generic.(Œ¾²èúÿÿÿÿ8¢¢·øú1
+L
+java:S3740x"/Provide the parametrized type for this generic.( ƒÁ8¢¢·øú1
+x	java:S116"WRename this field "edit_address" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÖÕÚşÿÿÿÿ8ß¢·øú1
+y	java:S116"]Rename this field "edit_contactNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Å×Ö8ß¢·øú1
+r	java:S116!"VRename this field "edit_gender" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³¥ªû8ß¢·øú1
+p	java:S116$"TRename this field "edit_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É§á8ß¢·øú1
+u	java:S116'"YRename this field "edit_patientID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅËôÆ8ß¢·øú1
+r	java:S116*"VRename this field "edit_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ù…‘8ß¢·øú1
+z	java:S116-"YRename this field "edit_updateBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á˜‡âûÿÿÿÿ8ß¢·øú1
+p	java:S1162"TRename this field "main_form" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÔ³Ö8ß¢·øú1
+r
+java:S1450"VRemove the "connect" field and declare it as a local variable in the relevant methods.(Á»·8à¢·øú1
+s
+java:S1450"VRemove the "prepare" field and declare it as a local variable in the relevant methods.( Âû¦8á¢·øú1
+C
+java:S24405"&Remove this instantiation of "Donnee".(—îŠØ8ã¢·øú1
+v
+java:S3012j"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ù÷8ğ¢·øú1
+u
+java:S3012u"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(£óû|8ñ¢·øú1
+L
+java:S1068"*Remove this unused "result" private field.(ö·±Òıÿÿÿÿ8ò¢·øú1

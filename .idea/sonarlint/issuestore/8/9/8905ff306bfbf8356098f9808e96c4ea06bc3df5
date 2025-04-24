@@ -1,0 +1,49 @@
+
+N
+java:S1153R"1Directly append the argument of String.valueOf().(‚Ñ„À8ßê–¿û1
+v	java:S116 "ZRename this field "editDoctor_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ±¼¤8Ûæ¿û1
+{	java:S116#"ZRename this field "editDoctor_diag" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äõåØùÿÿÿÿ8Ûæ¿û1
+z	java:S116%"YRename this field "editDoctor_obs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦©‹»úÿÿÿÿ8Ûæ¿û1
+z	java:S116("^Rename this field "editDoctor_examenID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ÒÍ8Ûæ¿û1
+~	java:S116+"bRename this field "editDoctor_libeleexamen" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñòòÖ8Ûæ¿û1
+~	java:S116."]Rename this field "editDoctor_objexam" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÜ±åøÿÿÿÿ8Ûæ¿û1
+	java:S1161"^Rename this field "editDoctor_resultat" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦º°ùÿÿÿÿ8Ûæ¿û1
+|	java:S1164"`Rename this field "editDoctor_typeexamen" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßŞô±8Ûæ¿û1
+r
+java:S1450;"VRemove the "connect" field and declare it as a local variable in the relevant methods.(Á»·8Ñ‰¿û1
+s
+java:S1450<"VRemove the "prepare" field and declare it as a local variable in the relevant methods.( Âû¦8Ñ‰¿û1
+X	java:S125`"<This block of commented-out lines of code should be removed.(ì‡¦Å8—‚¿û1
+X	java:S125f"<This block of commented-out lines of code should be removed.(ğÛº8Ë©ƒ¿û1
+Z
+java:S1128"=Remove this unused import 'javafx.collections.FXCollections'.(´¶²Æ8Áë–¿û1
+`
+java:S1128">Remove this unused import 'javafx.collections.ObservableList'.(ÄÜ€éüÿÿÿÿ8Áë–¿û1
+Z
+java:S1128"8Remove this unused import 'javafx.scene.control.Button'.(Ë Í‹øÿÿÿÿ8Âë–¿û1
+W
+java:S1128":Remove this unused import 'javafx.scene.control.ComboBox'.(òÀø¸8Ãë–¿û1
+W
+java:S1128	":Remove this unused import 'javafx.scene.control.TextArea'.(ö ¸8Ãë–¿û1
+[
+java:S1128"9Remove this unused import 'javafx.scene.image.ImageView'.(áÿ®Ãüÿÿÿÿ8Äë–¿û1
+R
+java:S1128"5Remove this unused import 'javafx.stage.FileChooser'.(–¹ë8Äë–¿û1
+b
+java:S1128"ERemove this unused import 'javafx.stage.FileChooser.ExtensionFilter'.(Ñìé¸8Äë–¿û1
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8Åë–¿û1
+M
+java:S1128"0Remove this unused import 'java.nio.file.Files'.(‚ƒü8Åë–¿û1
+L
+java:S1128"/Remove this unused import 'java.nio.file.Path'.(×²êÂ8Åë–¿û1
+M
+java:S1128"0Remove this unused import 'java.nio.file.Paths'.(áè°¯8Åë–¿û1
+Z
+java:S1128"=Remove this unused import 'java.nio.file.StandardCopyOption'.(×ÀòÔ8Æë–¿û1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Æë–¿û1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Æë–¿û1
+L
+java:S1068="*Remove this unused "result" private field.(ö·±Òıÿÿÿÿ8¢Ñ‰¿û1

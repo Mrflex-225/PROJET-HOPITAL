@@ -1,0 +1,5 @@
+"-fx-background-color: linear-gradient(to bottom right, #a413a1, #64308e);\n"
+            + "    -fx-cursor: hand;\n"
+            + "    -fx-text-fill: #fff;\n"
+            + "    -fx-font-size: 14px;\n"
+            + "    -fx-font-family: Arial;"

@@ -1,0 +1,50 @@
+
+R
+java:S3740æ"/Provide the parametrized type for this generic.(¶¯Ü€úÿÿÿÿ8şùıİø1
+ƒ
+java:S1192ï"`Define a constant instead of duplicating this literal "Systeme de management d'Hopital" 5 times.(Æä™ªÿÿÿÿÿ8€úıİø1
+_
+java:S4973ë"<Strings and Boxed types should be compared using "equals()".(˜·İÿúÿÿÿÿ8©ëË¡û1
+Z
+java:S4973ú"<Strings and Boxed types should be compared using "equals()".(Ê§ùë8ªëË¡û1
+Z
+java:S4973‰"<Strings and Boxed types should be compared using "equals()".(á¸Æ‚8¬ëË¡û1
+Z
+java:S4973˜"<Strings and Boxed types should be compared using "equals()".(’©¨‡8àµÆ¹û1
+_
+java:S4973§"<Strings and Boxed types should be compared using "equals()".(ŸÖÎşÿÿÿÿ8µÚÆ½û1
+u	java:S116"YRename this field "login_checkBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á„Ô8Áûıİø1
+q	java:S116"URename this field "login_form" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ê¦ç8Áûıİø1
+u	java:S116 "YRename this field "login_loginBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á´ÌØ8Áûıİø1
+p	java:S116#"TRename this field "login_mdp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁêÄó8Âûıİø1
+t	java:S116&"YRename this field "login_register" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹‰“8Âûıİø1
+t	java:S116)"XRename this field "login_showmdp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÔ½æ8Âûıİø1
+v	java:S116,"URename this field "login_user" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùšš´øÿÿÿÿ8Âûıİø1
+w	java:S116/"\Rename this field "login_utilisateur" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íæ¡8Âûıİø1
+p	java:S1162"TRename this field "main_form" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÔ³Ö8Âûıİø1
+}	java:S1165"\Rename this field "register_checkBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßæËÜşÿÿÿÿ8Âûıİø1
+u	java:S1168"YRename this field "register_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³§©ç8Âûıİø1
+y	java:S116;"XRename this field "register_form" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»–µÆÿÿÿÿÿ8Âûıİø1
+~	java:S116>"]Rename this field "register_loginhere" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»€şÂúÿÿÿÿ8Âûıİø1
+x	java:S116A"WRename this field "register_mdp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©©Ÿïşÿÿÿÿ8Âûıİø1
+x	java:S116D"\Rename this field "register_show_mdp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì§×8Âûıİø1
+v	java:S116G"ZRename this field "register_signUp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò†·ç8Âûıİø1
+€	java:S116J"_Rename this field "register_utilisateur" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó€ñÈıÿÿÿÿ8Âûıİø1
+o	java:S100O"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ‚è¢øÿÿÿÿ8Ìûıİø1
+o	java:S100W"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÏ¿üşÿÿÿÿ8Íûıİø1
+t
+java:S3776W"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ğÏ¿üşÿÿÿÿ8Íûıİø1
+g
+java:S1764_"ECorrect one of the identical sub-expressions on both sides of equals.(¾ÁÅ‹ÿÿÿÿÿ8Ğûıİø1
+X
+java:S2696l"6Make the enclosing method "static" or remove this set.(Û•©Øıÿÿÿÿ8èĞ¹Îú1
+S
+java:S2696m"6Make the enclosing method "static" or remove this set.(ÅŞ¡Î8ãíË¡û1
+p	java:S100†"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î¿Ùüıÿÿÿÿ8ôûıİø1
+u
+java:S3776†"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(î¿Ùüıÿÿÿÿ8õûıİø1
+p	java:S100ß"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬§ãŒüÿÿÿÿ8“üıİø1
+X	java:S125Ú"<This block of commented-out lines of code should be removed.(¯ì²z8”üıİø1
+w
+java:S3012ã"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(”Í€8–üıİø1
+p	java:S100»"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹åáÕøÿÿÿÿ8ªüıİø1

@@ -1,0 +1,30 @@
+
+J
+java:S3740c"/Provide the parametrized type for this generic.(îŸğÕÿÿÿÿÿ
+J
+java:S3740v"/Provide the parametrized type for this generic.(îŸğÕÿÿÿÿÿ
+K
+java:S3740†"/Provide the parametrized type for this generic.(Œ¾²èúÿÿÿÿ
+F
+java:S3740‘"/Provide the parametrized type for this generic.( ƒÁ
+z	java:S116 "`Rename this field "editApp_appointmentID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•¤¶´şÿÿÿÿ
+p	java:S116#"[Rename this field "editApp_fullName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìâé§
+n	java:S116&"YRename this field "editApp_gender" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°€¾•
+t	java:S116)"_Rename this field "editApp_mobileNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àôÒ†
+t	java:S116,"ZRename this field "editApp_address" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Íû§ıÿÿÿÿ
+v	java:S116/"\Rename this field "editApp_updateBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú•àşÿÿÿÿ
+q	java:S1162"\Rename this field "editApp_cancelBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üëƒç
+s	java:S1165"^Rename this field "editApp_description" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğø¿¾
+v	java:S1168"\Rename this field "editApp_diagnosis" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£Şœøÿÿÿÿ
+v	java:S116;"\Rename this field "editApp_treatment" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş¹Òñÿÿÿÿÿ
+n	java:S116>"YRename this field "editApp_doctor" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ë†é
+x	java:S116A"^Rename this field "editApp_specialized" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úíÊúÿÿÿÿ
+n	java:S116D"YRename this field "editApp_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€öëƒ
+w
+java:S3012ƒ"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ù÷8ÿ€Ÿû1
+v
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(£óû|8€Ÿû1
+H
+java:S1068I"-Remove this unused "statement" private field.(„£„÷øÿÿÿÿ
+D
+java:S1068K")Remove this unused "alert" private field.(Ê¦…Ùüÿÿÿÿ

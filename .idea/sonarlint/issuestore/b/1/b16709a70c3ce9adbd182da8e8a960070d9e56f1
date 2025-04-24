@@ -1,0 +1,29 @@
+
+R
+java:S3740Ë"/Provide the parametrized type for this generic.(¶¯Ü€úÿÿÿÿ8ûêá¹û1
+ƒ
+java:S1192ˆ"`Define a constant instead of duplicating this literal "Systeme de management d'Hopital" 3 times.(Æä™ªÿÿÿÿÿ8ıêá¹û1
+{	java:S116"ZRename this field "login_PatientID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·µïøÿÿÿÿÿ8Âëá¹û1
+u	java:S116"YRename this field "login_checkBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á„Ô8Âëá¹û1
+q	java:S116 "URename this field "login_form" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ê¦ç8Âëá¹û1
+u	java:S116#"YRename this field "login_loginBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á´ÌØ8Âëá¹û1
+p	java:S116&"TRename this field "login_mdp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁêÄó8Âëá¹û1
+t	java:S116)"XRename this field "login_showmdp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÔ½æ8Ãëá¹û1
+q	java:S116,"URename this field "login_user" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËßÊ‚8Ãëá¹û1
+p	java:S116/"TRename this field "main_form" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÔ³Ö8Ãëá¹û1
+z
+java:S14501"XRemove the "connexion" field and declare it as a local variable in the relevant methods.(…‡Âışÿÿÿÿ8Æëá¹û1
+‚
+java:S14502"`Remove the "preparedStatement" field and declare it as a local variable in the relevant methods.(¿ä Óşÿÿÿÿ8Çëá¹û1
+z
+java:S14503"XRemove the "resultSet" field and declare it as a local variable in the relevant methods.(¿ˆ°úÿÿÿÿ8Èëá¹û1
+j	java:S1008"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç®Áò8Ìëá¹û1
+o
+java:S37768"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(ç®Áò8Íëá¹û1
+g
+java:S1764X"ECorrect one of the identical sub-expressions on both sides of equals.(¾ÁÅ‹ÿÿÿÿÿ8Óëá¹û1
+S
+java:S2696k"6Make the enclosing method "static" or remove this set.(Ö”ºë8×ëá¹û1
+p	java:S100Ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬§ãŒüÿÿÿÿ8îëá¹û1
+w
+java:S3012È"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(”Í€8îëá¹û1

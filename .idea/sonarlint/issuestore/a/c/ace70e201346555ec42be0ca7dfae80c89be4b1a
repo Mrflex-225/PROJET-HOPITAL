@@ -1,0 +1,20 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·¹Ïùÿÿÿÿ8µÇ½ïõ1
+S
+java:S1153
+"1Directly append the argument of String.valueOf().(ğÙ’…úÿÿÿÿ8’¾ïõ1
+S
+java:S1153
+"1Directly append the argument of String.valueOf().(ğÙ’…úÿÿÿÿ8µÇ½ïõ1
+S
+java:S1153"1Directly append the argument of String.valueOf().(îè³¬ûÿÿÿÿ8§‘Ú›÷1
+S
+java:S1153"1Directly append the argument of String.valueOf().(îè³¬ûÿÿÿÿ8¨‘Ú›÷1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(·¹Ïùÿÿÿÿ8ÀÇ½ïõ1
+@
+java:S2119"Save and re-use this "Random".(ÕÈ­ıÿÿÿÿ8ÄÇ½ïõ1
+@
+java:S2119"Save and re-use this "Random".(ÕÈ­ıÿÿÿÿ8ŒµÚ›÷1
+J
+java:S1128"-Remove this unused import 'java.util.random'.(ÕÍºç8œ¤Û›÷1

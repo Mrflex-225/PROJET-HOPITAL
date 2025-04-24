@@ -1,0 +1,261 @@
+
+{
+java:S1104"YMake admin_nomutil a static final constant or non-public and provide accessors if needed.(ÏÌì´øÿÿÿÿ8Ùà»Šû1
+v
+java:S1104"TMake admin_id a static final constant or non-public and provide accessors if needed.(æ¾¦¯üÿÿÿÿ8Ùà»Šû1
+x
+java:S1104"VMake admin_Name a static final constant or non-public and provide accessors if needed.(‰éêşøÿÿÿÿ8Ùà»Šû1
+|
+java:S1104	"ZMake admin_username a static final constant or non-public and provide accessors if needed.(Œ½€Âşÿÿÿÿ8Ùà»Šû1
+m
+java:S1104
+"PMake path a static final constant or non-public and provide accessors if needed.(Ìµ³š8Ùà»Šû1
+x
+java:S1104"VMake docteur_id a static final constant or non-public and provide accessors if needed.(µğåÂşÿÿÿÿ8Ùà»Šû1
+z
+java:S1104"XMake docteur_name a static final constant or non-public and provide accessors if needed.(ÇŞÓ›şÿÿÿÿ8Ùà»Šû1
+x
+java:S1104"VMake patient_id a static final constant or non-public and provide accessors if needed.(ùƒüŸÿÿÿÿÿ8Ùà»Šû1
+n
+java:S1104"QMake genre a static final constant or non-public and provide accessors if needed.(ÊÌíÊ8Ùà»Šû1
+n
+java:S1104"RMake statut a static final constant or non-public and provide accessors if needed.(¬ÚÄx8Ùà»Šû1
+n
+java:S1104"QMake grade a static final constant or non-public and provide accessors if needed.(¤‡©8Ùà»Šû1
+n
+java:S1104"QMake poste a static final constant or non-public and provide accessors if needed.(Œ•ÎÊ8Ùà»Šû1
+x
+java:S1104"VMake specialite a static final constant or non-public and provide accessors if needed.(Ë–²Âúÿÿÿÿ8Ùà»Šû1
+|
+java:S1104"ZMake temp_PatientID a static final constant or non-public and provide accessors if needed.(Àş¥®ùÿÿÿÿ8Ùà»Šû1
+v
+java:S1104"TMake temp_nom a static final constant or non-public and provide accessors if needed.(˜İûúüÿÿÿÿ8Ùà»Šû1
+r
+java:S1104"VMake temp_genre a static final constant or non-public and provide accessors if needed.(ÖÚµ(8Ùà»Šû1
+t
+java:S1104"WMake temp_number a static final constant or non-public and provide accessors if needed.(„Î©ô8Ùà»Šû1
+{
+java:S1104"YMake temp_addresse a static final constant or non-public and provide accessors if needed.(®½é¿ûÿÿÿÿ8Ùà»Šû1
+t
+java:S1104"WMake temp_statut a static final constant or non-public and provide accessors if needed.(½‡‚µ8Ùà»Šû1
+r
+java:S1104 "UMake temp_date a static final constant or non-public and provide accessors if needed.(Ìš†Û8Ùà»Šû1
+y
+java:S1104!"WMake temp_chemin a static final constant or non-public and provide accessors if needed.(µ†’æùÿÿÿÿ8Ùà»Šû1
+|
+java:S1104#"ZMake temp_docteurID a static final constant or non-public and provide accessors if needed.(ãéî’ıÿÿÿÿ8Ùà»Šû1
+y
+java:S1104$"\Make temp_docteurName a static final constant or non-public and provide accessors if needed.(ËÿéŞ8Ùà»Šû1
+z
+java:S1104%"]Make temp_docteurEmail a static final constant or non-public and provide accessors if needed.(™„ş’8Ùà»Šû1
+‚
+java:S1104&"`Make temp_docteurPassword a static final constant or non-public and provide accessors if needed.(¸ùñÿÿÿÿÿ8Ùà»Šû1
+…
+java:S1104'"cMake temp_docteurSpecialized a static final constant or non-public and provide accessors if needed.(–ÜŸ„şÿÿÿÿ8Ùà»Šû1
+{
+java:S1104("^Make temp_docteurGender a static final constant or non-public and provide accessors if needed.(ìó½õ8Ùà»Šû1
+†
+java:S1104*"dMake temp_docteurMobileNumber a static final constant or non-public and provide accessors if needed.(ÓÅóÁÿÿÿÿÿ8Ùà»Šû1
+~
+java:S1104+"aMake temp_docteurImagePath a static final constant or non-public and provide accessors if needed.(‰º±Ü8Ùà»Šû1
+r
+java:S1104-"UMake temp_path a static final constant or non-public and provide accessors if needed.(ÈÓ•Ë8Ùà»Šû1
+
+java:S1104."_Make temp_docteurAddress a static final constant or non-public and provide accessors if needed.(àÌáúÿÿÿÿ8Ùà»Šû1
+€
+java:S1104/"^Make temp_docteurStatus a static final constant or non-public and provide accessors if needed.(ËŞú§úÿÿÿÿ8Ùà»Šû1
+s
+java:S11041"VMake temp_appID a static final constant or non-public and provide accessors if needed.(ŞĞ¹¬8Ùà»Šû1
+z
+java:S11042"XMake temp_appName a static final constant or non-public and provide accessors if needed.(©ÊŠúÿÿÿÿ8Ùà»Šû1
+w
+java:S11043"ZMake temp_appGender a static final constant or non-public and provide accessors if needed.(°š‘Š8Ùà»Šû1
+}
+java:S11044"`Make temp_appMobileNumber a static final constant or non-public and provide accessors if needed.(…¯¼Ÿ8Ùà»Šû1
+w
+java:S11045"[Make temp_appAddress a static final constant or non-public and provide accessors if needed.(ÌõŞy8Ùà»Šû1
+|
+java:S11046"_Make temp_appDescription a static final constant or non-public and provide accessors if needed.(“ë¢©8Ùà»Šû1
+z
+java:S11047"]Make temp_appDiagnosis a static final constant or non-public and provide accessors if needed.(ø¨üÁ8Ùà»Šû1
+
+java:S11048"]Make temp_appTreatment a static final constant or non-public and provide accessors if needed.(€»È÷úÿÿÿÿ8Ùà»Šû1
+x
+java:S11049"[Make temp_appdocteur a static final constant or non-public and provide accessors if needed.(åãÏ—8Ùà»Šû1
+{
+java:S1104:"_Make temp_appSpecialized a static final constant or non-public and provide accessors if needed.(º‡™:8Ùà»Šû1
+|
+java:S1104;"ZMake temp_appStatus a static final constant or non-public and provide accessors if needed.(à³µìùÿÿÿÿ8Ùà»Šû1
+U
+java:S1444"3Make this "public static admin_nomutil" field final(ÏÌì´øÿÿÿÿ8Ùà»Šû1
+P
+java:S1444".Make this "public static admin_id" field final(æ¾¦¯üÿÿÿÿ8Ùà»Šû1
+R
+java:S1444"0Make this "public static admin_Name" field final(‰éêşøÿÿÿÿ8Ùà»Šû1
+V
+java:S1444	"4Make this "public static admin_username" field final(Œ½€Âşÿÿÿÿ8Ùà»Šû1
+G
+java:S1444
+"*Make this "public static path" field final(Ìµ³š8Ùà»Šû1
+R
+java:S1444"0Make this "public static docteur_id" field final(µğåÂşÿÿÿÿ8Ùà»Šû1
+T
+java:S1444"2Make this "public static docteur_name" field final(ÇŞÓ›şÿÿÿÿ8Ùà»Šû1
+R
+java:S1444"0Make this "public static patient_id" field final(ùƒüŸÿÿÿÿÿ8Ùà»Šû1
+H
+java:S1444"+Make this "public static genre" field final(ÊÌíÊ8Ùà»Šû1
+H
+java:S1444",Make this "public static statut" field final(¬ÚÄx8Ùà»Šû1
+H
+java:S1444"+Make this "public static grade" field final(¤‡©8Ùà»Šû1
+H
+java:S1444"+Make this "public static poste" field final(Œ•ÎÊ8Ùà»Šû1
+R
+java:S1444"0Make this "public static specialite" field final(Ë–²Âúÿÿÿÿ8Ùà»Šû1
+V
+java:S1444"4Make this "public static temp_PatientID" field final(Àş¥®ùÿÿÿÿ8Úà»Šû1
+P
+java:S1444".Make this "public static temp_nom" field final(˜İûúüÿÿÿÿ8Úà»Šû1
+L
+java:S1444"0Make this "public static temp_genre" field final(ÖÚµ(8Úà»Šû1
+N
+java:S1444"1Make this "public static temp_number" field final(„Î©ô8Úà»Šû1
+U
+java:S1444"3Make this "public static temp_addresse" field final(®½é¿ûÿÿÿÿ8Úà»Šû1
+N
+java:S1444"1Make this "public static temp_statut" field final(½‡‚µ8Úà»Šû1
+L
+java:S1444 "/Make this "public static temp_date" field final(Ìš†Û8Úà»Šû1
+S
+java:S1444!"1Make this "public static temp_chemin" field final(µ†’æùÿÿÿÿ8Úà»Šû1
+V
+java:S1444#"4Make this "public static temp_docteurID" field final(ãéî’ıÿÿÿÿ8Úà»Šû1
+S
+java:S1444$"6Make this "public static temp_docteurName" field final(ËÿéŞ8Úà»Šû1
+T
+java:S1444%"7Make this "public static temp_docteurEmail" field final(™„ş’8Úà»Šû1
+\
+java:S1444&":Make this "public static temp_docteurPassword" field final(¸ùñÿÿÿÿÿ8Úà»Šû1
+_
+java:S1444'"=Make this "public static temp_docteurSpecialized" field final(–ÜŸ„şÿÿÿÿ8Úà»Šû1
+U
+java:S1444("8Make this "public static temp_docteurGender" field final(ìó½õ8Úà»Šû1
+`
+java:S1444*">Make this "public static temp_docteurMobileNumber" field final(ÓÅóÁÿÿÿÿÿ8Úà»Šû1
+X
+java:S1444+";Make this "public static temp_docteurImagePath" field final(‰º±Ü8Úà»Šû1
+L
+java:S1444-"/Make this "public static temp_path" field final(ÈÓ•Ë8Úà»Šû1
+[
+java:S1444."9Make this "public static temp_docteurAddress" field final(àÌáúÿÿÿÿ8Úà»Šû1
+Z
+java:S1444/"8Make this "public static temp_docteurStatus" field final(ËŞú§úÿÿÿÿ8Úà»Šû1
+M
+java:S14441"0Make this "public static temp_appID" field final(ŞĞ¹¬8Úà»Šû1
+T
+java:S14442"2Make this "public static temp_appName" field final(©ÊŠúÿÿÿÿ8Úà»Šû1
+Q
+java:S14443"4Make this "public static temp_appGender" field final(°š‘Š8Úà»Šû1
+W
+java:S14444":Make this "public static temp_appMobileNumber" field final(…¯¼Ÿ8Úà»Šû1
+Q
+java:S14445"5Make this "public static temp_appAddress" field final(ÌõŞy8Úà»Šû1
+V
+java:S14446"9Make this "public static temp_appDescription" field final(“ë¢©8Úà»Šû1
+T
+java:S14447"7Make this "public static temp_appDiagnosis" field final(ø¨üÁ8Úà»Šû1
+Y
+java:S14448"7Make this "public static temp_appTreatment" field final(€»È÷úÿÿÿÿ8Úà»Šû1
+R
+java:S14449"5Make this "public static temp_appdocteur" field final(åãÏ—8Úà»Šû1
+U
+java:S1444:"9Make this "public static temp_appSpecialized" field final(º‡™:8Úà»Šû1
+V
+java:S1444;"4Make this "public static temp_appStatus" field final(à³µìùÿÿÿÿ8Úà»Šû1
+z
+java:S3008"XRename this field "admin_nomutil" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÌì´øÿÿÿÿ8åà»Šû1
+u
+java:S3008"SRename this field "admin_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ¾¦¯üÿÿÿÿ8åà»Šû1
+w
+java:S3008"URename this field "admin_Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰éêşøÿÿÿÿ8åà»Šû1
+{
+java:S3008	"YRename this field "admin_username" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ½€Âşÿÿÿÿ8åà»Šû1
+w
+java:S3008"URename this field "docteur_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µğåÂşÿÿÿÿ8åà»Šû1
+y
+java:S3008"WRename this field "docteur_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇŞÓ›şÿÿÿÿ8åà»Šû1
+w
+java:S3008"URename this field "patient_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùƒüŸÿÿÿÿÿ8åà»Šû1
+{
+java:S3008"YRename this field "temp_PatientID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àş¥®ùÿÿÿÿ8åà»Šû1
+u
+java:S3008"SRename this field "temp_nom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜İûúüÿÿÿÿ8åà»Šû1
+q
+java:S3008"URename this field "temp_genre" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÚµ(8åà»Šû1
+s
+java:S3008"VRename this field "temp_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Î©ô8åà»Šû1
+z
+java:S3008"XRename this field "temp_addresse" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®½é¿ûÿÿÿÿ8åà»Šû1
+s
+java:S3008"VRename this field "temp_statut" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½‡‚µ8åà»Šû1
+q
+java:S3008 "TRename this field "temp_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìš†Û8åà»Šû1
+x
+java:S3008!"VRename this field "temp_chemin" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ†’æùÿÿÿÿ8åà»Šû1
+{
+java:S3008#"YRename this field "temp_docteurID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãéî’ıÿÿÿÿ8åà»Šû1
+x
+java:S3008$"[Rename this field "temp_docteurName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÿéŞ8åà»Šû1
+y
+java:S3008%"\Rename this field "temp_docteurEmail" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™„ş’8åà»Šû1
+
+java:S3008&"_Rename this field "temp_docteurPassword" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ùñÿÿÿÿÿ8æà»Šû1
+„
+java:S3008'"bRename this field "temp_docteurSpecialized" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ÜŸ„şÿÿÿÿ8æà»Šû1
+z
+java:S3008("]Rename this field "temp_docteurGender" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìó½õ8æà»Šû1
+…
+java:S3008*"cRename this field "temp_docteurMobileNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÅóÁÿÿÿÿÿ8æà»Šû1
+}
+java:S3008+"`Rename this field "temp_docteurImagePath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰º±Ü8æà»Šû1
+q
+java:S3008-"TRename this field "temp_path" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÓ•Ë8æà»Šû1
+€
+java:S3008."^Rename this field "temp_docteurAddress" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÌáúÿÿÿÿ8æà»Šû1
+
+java:S3008/"]Rename this field "temp_docteurStatus" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËŞú§úÿÿÿÿ8æà»Šû1
+r
+java:S30081"URename this field "temp_appID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞĞ¹¬8æà»Šû1
+y
+java:S30082"WRename this field "temp_appName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ÊŠúÿÿÿÿ8æà»Šû1
+v
+java:S30083"YRename this field "temp_appGender" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°š‘Š8æà»Šû1
+|
+java:S30084"_Rename this field "temp_appMobileNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¯¼Ÿ8æà»Šû1
+v
+java:S30085"ZRename this field "temp_appAddress" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌõŞy8æà»Šû1
+{
+java:S30086"^Rename this field "temp_appDescription" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ë¢©8æà»Šû1
+y
+java:S30087"\Rename this field "temp_appDiagnosis" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¨üÁ8æà»Šû1
+~
+java:S30088"\Rename this field "temp_appTreatment" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€»È÷úÿÿÿÿ8æà»Šû1
+w
+java:S30089"ZRename this field "temp_appdocteur" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åãÏ—8æà»Šû1
+z
+java:S3008:"^Rename this field "temp_appSpecialized" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º‡™:8æà»Šû1
+{
+java:S3008;"YRename this field "temp_appStatus" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à³µìùÿÿÿÿ8æà»Šû1
+:
+java:S2386"Make this member "protected".(ÊÌíÊ8éà»Šû1
+9
+java:S2386"Make this member "protected".(¬ÚÄx8éà»Šû1
+:
+java:S2386"Make this member "protected".(¤‡©8éà»Šû1
+:
+java:S2386"Make this member "protected".(Œ•ÎÊ8éà»Šû1
+?
+java:S2386"Make this member "protected".(Ë–²Âúÿÿÿÿ8éà»Šû1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ÉóÃáüÿÿÿÿ8ëà»Šû1

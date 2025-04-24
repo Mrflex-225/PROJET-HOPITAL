@@ -1,0 +1,5 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(«ôÈŠúÿÿÿÿ8¯—ßãú1
+c	java:S107'"BConstructor has 17 parameters, which is greater than 7 authorized.(á¿ÆÚıÿÿÿÿ8®Õããú1
+c	java:S107>"BConstructor has 10 parameters, which is greater than 7 authorized.(‡œ‚ºúÿÿÿÿ8ÿããú1
+^	java:S107M"BConstructor has 10 parameters, which is greater than 7 authorized.(ĞÌçØ8Ì«äãú1

@@ -1,0 +1,266 @@
+
+K
+java:S3740”"/Provide the parametrized type for this generic.(ïÈêÇûÿÿÿÿ
+K
+java:S3740Ÿ"/Provide the parametrized type for this generic.(©ìê“ùÿÿÿÿ
+K
+java:S3740¬"/Provide the parametrized type for this generic.(©ìê“ùÿÿÿÿ
+F
+java:S3740Â"/Provide the parametrized type for this generic.(ùãòü
+F
+java:S3740Ç"/Provide the parametrized type for this generic.(¢÷ ˜
+F
+java:S3740á"/Provide the parametrized type for this generic.(¢÷ ˜
+K
+java:S3740¾	"/Provide the parametrized type for this generic.(©ìê“ùÿÿÿÿ
+K
+java:S3740Ê	"/Provide the parametrized type for this generic.(«ÃŠ¾ûÿÿÿÿ
+f
+java:S1192š"JDefine a constant instead of duplicating this literal "COUNT(id)" 4 times.(ËÉ¨‚øÿÿÿÿ
+‚
+java:S1192¿"kDefine a constant instead of duplicating this literal "SELECT * FROM docteur WHERE id_docteur = '" 4 times.(–¯ãì
+^
+java:S1192„"GDefine a constant instead of duplicating this literal "status" 5 times.(ĞÇĞœ
+c
+java:S1192"GDefine a constant instead of duplicating this literal "numero" 3 times.(«Šäûÿÿÿÿ
+c
+java:S1192é"LDefine a constant instead of duplicating this literal "nom_complet" 3 times.(ÿ½î
+b
+java:S1192€"FDefine a constant instead of duplicating this literal "genre" 3 times.(ÌÁÿÿÿÿÿ
+b
+java:S1192Ê"FDefine a constant instead of duplicating this literal "image" 4 times.(Æ¬Ãíÿÿÿÿÿ
+g
+java:S1192ƒ"KDefine a constant instead of duplicating this literal "specialite" 3 times.(Ìâ˜ÿÿÿÿÿ
+c
+java:S1192£"LDefine a constant instead of duplicating this literal "description" 6 times.(Ÿ½í²
+d
+java:S1192‚"HDefine a constant instead of duplicating this literal "adresse" 3 times.(íŒ„¿ùÿÿÿÿ
+Q
+java:S1141©"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+l	java:S117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø”Ïçüÿÿÿÿ
+g	java:S117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùä„Ù
+l
+java:S1104§"UMake connexion a static final constant or non-public and provide accessors if needed.(«ş¾Û
+y
+java:S1104¨"]Make preparedStatement a static final constant or non-public and provide accessors if needed.(¦½“æüÿÿÿÿ
+l
+java:S1104©"UMake resultSet a static final constant or non-public and provide accessors if needed.(Å‚ıß
+u
+java:S1104¤	"^Make appoinmentListData a static final constant or non-public and provide accessors if needed.(è»ÿ…
+r
+java:S1104"[Make patientListData a static final constant or non-public and provide accessors if needed.(–í±Ñ
+b	java:S101*"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÆÒ‰ 
+k	java:S116."VRename this field "btn_confirm" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÄ«Ä
+h	java:S1161"SRename this field "btn_dash" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Õ—
+k	java:S1164"VRename this field "btn_patient" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á¥—
+q	java:S1167"WRename this field "btn_patient1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º†‰Êüÿÿÿÿ
+m	java:S116:"XRename this field "patient_liste" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹”Ê©
+p	java:S116<"VRename this field "btn_profile" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úñØÁıÿÿÿÿ
+l	java:S116B"RRename this field "btn_rdv" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›»Æşÿÿÿÿ
+m	java:S116E"XRename this field "dash_chart_DM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÍ´Û
+r	java:S116H"XRename this field "dash_chart_DP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¢Å–øÿÿÿÿ
+n	java:S116K"YRename this field "dash_col_RDVID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü£¤Í
+u	java:S116N"[Rename this field "dash_col_descrip" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éç’İûÿÿÿÿ
+r	java:S116Q"XRename this field "dash_col_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘¯²Øøÿÿÿÿ
+u	java:S116T"[Rename this field "dash_col_rdvdate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î¸“àúÿÿÿÿ
+t	java:S116W"ZRename this field "dash_col_statut" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Ï¦€ùÿÿÿÿ
+l	java:S116["RRename this field "dash_pa" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒŞÕÙıÿÿÿÿ
+l	java:S116^"RRename this field "dash_pi" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓŞéşÿÿÿÿ
+f	java:S116a"RRename this field "dash_tp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ×Åa
+n	java:S116d"TRename this field "dash_trdv" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÛ„ûÿÿÿÿ
+l	java:S116g"RRename this field "dash_tv" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®´ûşÿÿÿÿ
+m	java:S116k"SRename this field "dash_rdv" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸­Ğşÿÿÿÿ
+s	java:S116o"YRename this field "dashboard_form" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç¿Í‹üÿÿÿÿ
+x	java:S116r"^Rename this field "dashboard_tableview" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¢®íşÿÿÿÿ
+w	java:S116x"]Rename this field "docteur_col_action" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µáÈ¢ùÿÿÿÿ
+x	java:S116{"^Rename this field "docteur_col_adresse" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í‘¢øÿÿÿÿ
+s	java:S116~"^Rename this field "docteur_col_contact" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¸Éü
+w	java:S116"\Rename this field "docteur_col_docID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥†‹ÿÿÿÿÿ
+w	java:S116„"\Rename this field "docteur_col_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›€ã†şÿÿÿÿ
+r	java:S116‡"\Rename this field "docteur_col_genre" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ†ÙÜ
+o	java:S116Š"ZRename this field "docteur_col_nom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë÷ŠL
+t	java:S116"^Rename this field "docteur_col_special" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êî£¤
+s	java:S116"]Rename this field "docteur_col_statut" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äñ˜Ü
+r	java:S116“"WRename this field "docteur_form" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıöä·ûÿÿÿÿ
+r	java:S116–"WRename this field "form_courant" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…æï·şÿÿÿÿ
+j	java:S116™"TRename this field "main_form" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š–œİ
+l	java:S116œ"VRename this field "nav_IDadmin" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íñ¸œ
+m	java:S116Ÿ"WRename this field "nav_nomutili" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ•íì
+n	java:S116¤"XRename this field "patient_form1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡‡íÈ
+o	java:S116§"YRename this field "patient_form11" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ãŠ
+y	java:S116ª"^Rename this field "patients_CP_adresse" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğë×ûÿÿÿÿ
+u	java:S116­"_Rename this field "patients_CP_datecree" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó‰ËÏ
+v	java:S116°"`Rename this field "patients_CP_idpatient" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øä–æ
+u	java:S116³"ZRename this field "patients_CP_mdp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÃåİÿÿÿÿÿ
+x	java:S116¶"]Rename this field "patients_IP_addbtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–˜ûÿÿÿÿ
+w	java:S116¹"\Rename this field "patients_IP_genre" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Å©ˆúÿÿÿÿ
+w	java:S116¼"aRename this field "patients_IP_nompatient" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚äá¢
+s	java:S116¿"]Rename this field "patients_IP_numero" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ú 
+s	java:S116Â"^Rename this field "patients_IP_savebtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ÿ´_
+q	java:S116Å"[Rename this field "patients_adresse" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú‘ûï
+o	java:S116È"YRename this field "patients_genre" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®·ß
+s	java:S116Ë"]Rename this field "patients_idpatient" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÍîé
+r	java:S116Î"WRename this field "patients_mdp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şá´…úÿÿÿÿ
+r	java:S116Ñ"WRename this field "patients_nom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—«Í¶ıÿÿÿÿ
+u	java:S116Ô"ZRename this field "patients_numero" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Å¢ìùÿÿÿÿ
+q	java:S116×"VRename this field "rdv_adresse" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ıİœıÿÿÿÿ
+u	java:S116Ú"ZRename this field "rdv_btn_inserer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡‘íÛùÿÿÿÿ
+u	java:S116Ü"ZRename this field "rdv_btn_effacer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡«¥ùÿÿÿÿ
+q	java:S116ß"VRename this field "rdv_btn_maj" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÆ™Âûÿÿÿÿ
+w	java:S116â"\Rename this field "rdv_btn_supprimer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·õÍğüÿÿÿÿ
+o	java:S116æ"YRename this field "rdv_col_action" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øö·—
+u	java:S116é"ZRename this field "rdv_col_contact" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀæÁêûÿÿÿÿ
+m	java:S116ì"WRename this field "rdv_col_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßçá©
+w	java:S116ï"\Rename this field "rdv_col_datemodif" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È–ìÜÿÿÿÿÿ
+v	java:S116ò"[Rename this field "rdv_col_datesupp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦¯º’ùÿÿÿÿ
+u	java:S116õ"ZRename this field "rdv_col_descrip" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ùûìÿÿÿÿÿ
+n	java:S116ø"XRename this field "rdv_col_genre" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÈÀ¤
+s	java:S116û"XRename this field "rdv_col_idrdv" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à–äÿÿÿÿÿÿ
+k	java:S116ş"VRename this field "rdv_col_nom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú´ËF
+n	java:S116"YRename this field "rdv_col_statut" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êì‘_
+p	java:S116„"ZRename this field "rdv_description" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì ú‚
+v	java:S116‡"[Rename this field "rdv_diagnostique" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ç¡°şÿÿÿÿ
+h	java:S116Š"SRename this field "rdv_form" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÎ¶i
+o	java:S116"TRename this field "rdv_genre" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆñÑÂúÿÿÿÿ
+h	java:S116"RRename this field "rdv_nom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šõœÌ
+p	java:S116“"URename this field "rdv_numero" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆš¹Ùÿÿÿÿÿ
+o	java:S116–"TRename this field "rdv_rdvID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¨…Íÿÿÿÿÿ
+p	java:S116™"URename this field "rdv_statut" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş‡÷ÿÿÿÿÿ
+n	java:S116œ"XRename this field "rdv_tableview" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ÅÒâ
+t	java:S116Ÿ"YRename this field "rdv_traitement" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áğ£Ûüÿÿÿÿ
+r	java:S116¢"WRename this field "top_nomutili" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Ğ÷Ôÿÿÿÿÿ
+p	java:S116¥"URename this field "top_profil" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åµ¯Ôùÿÿÿÿ
+q	java:S116¬"VRename this field "rdv_horaire" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÜ™Êùÿÿÿÿ
+m	java:S116±"WRename this field "profile_form" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µŸå®
+p	java:S116³"ZRename this field "profile_adresse" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢
+t	java:S116¶"_Rename this field "profile_adresseemail" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³‹'
+y	java:S116¹"^Rename this field "profile_cercleimage" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß‰Ğüÿÿÿÿ
+z	java:S116¼"_Rename this field "profile_datecreation" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±âİØøÿÿÿÿ
+s	java:S116¿"XRename this field "profile_docid" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸¤Ö¦ûÿÿÿÿ
+n	java:S116Â"XRename this field "profile_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿé•
+s	java:S116Å"XRename this field "profile_genre" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Ëòäıÿÿÿÿ
+n	java:S116È"XRename this field "profile_grade" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñºßÿ
+r	java:S116Ë"\Rename this field "profile_iddocteur" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öëğù
+y	java:S116Î"^Rename this field "profile_importimage" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆœœšûÿÿÿÿ
+w	java:S116Ñ"\Rename this field "profile_label_nom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÓ”åûÿÿÿÿ
+w	java:S116Ô"\Rename this field "profile_nomupdate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÖì§øÿÿÿÿ
+t	java:S116×"YRename this field "profile_numero" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÒäúÿÿÿÿ
+x	java:S116Ú"]Rename this field "profile_specialite" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢—‡‘üÿÿÿÿ
+t	java:S116İ"YRename this field "profile_statut" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ùşØıÿÿÿÿ
+r	java:S116ß"\Rename this field "profile_updateBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İàÏ‚
+x	java:S116å"]Rename this field "patient_col_action" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ˆ†‹ûÿÿÿÿ
+y	java:S116è"^Rename this field "patient_col_contact" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äê¢üøÿÿÿÿ
+v	java:S116ë"[Rename this field "patient_col_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šóİ•ûÿÿÿÿ
+v	java:S116î"`Rename this field "patient_col_datemodif" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ§—©
+u	java:S116ñ"_Rename this field "patient_col_datesupp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½å‘è
+x	java:S116ô"bRename this field "patient_col_description" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´÷©
+r	java:S116÷"\Rename this field "patient_col_genre" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉšÊ§
+r	java:S116ú"\Rename this field "patient_col_idpat" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞŞÁĞ
+u	java:S116ı"ZRename this field "patient_col_nom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º¥ïœøÿÿÿÿ
+x	java:S116€"]Rename this field "patient_col_statut" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬à»ºşÿÿÿÿ
+r	java:S116ƒ"WRename this field "patient_form" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßŞæşÿÿÿÿ
+n	java:S116‡"XRename this field "patient_form2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«’Òå
+w	java:S116‹"\Rename this field "patient_tableview" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÕÃ¸ûÿÿÿÿ
+{
+java:S1450°"_Remove the "dashboardGetData" field and declare it as a local variable in the relevant methods.(ºîİ’şÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(¾†­ 
+R
+java:S2696á"6Make the enclosing method "static" or remove this set.(µ”–áùÿÿÿÿ
+n
+java:S3776é"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(·Â¤îúÿÿÿÿ
+U
+java:S1117ÿ"9Rename "date" which hides the field declared at line 116.(”Ç©šùÿÿÿÿ
+U
+java:S1117—"9Rename "date" which hides the field declared at line 116.(”Ç©šùÿÿÿÿ
+u
+java:S3012‘"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(·Ã¿¿úÿÿÿÿ
+o
+java:S3012œ"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(õÑ¯
+
+o
+java:S3012©"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(õÑ¯
+
+W	java:S125°"<This block of commented-out lines of code should be removed.(˜»úøÿÿÿÿ
+Q	java:S125²"<This block of commented-out lines of code should be removed.(¹‘›
+R	java:S125´"<This block of commented-out lines of code should be removed.(´œş›
+W	java:S125¸"<This block of commented-out lines of code should be removed.(Í€±ûÿÿÿÿ
+o
+java:S3012À"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(õÑ¯
+
+E
+java:S1905ò")Remove this unnecessary cast to "String".(ƒğÑ¾ùÿÿÿÿ
+U
+java:S1117ş"9Rename "date" which hides the field declared at line 116.(”Ç©šùÿÿÿÿ
+F
+java:S1481¯"/Remove this unused "doctorName" local variable.(ÿ€˜‰
+R
+java:S1481°"6Remove this unused "doctorSpecialized" local variable.(œĞÏ…ùÿÿÿÿ
+U
+java:S1117¾"9Rename "date" which hides the field declared at line 116.(”Ç©šùÿÿÿÿ
+q
+java:S3923ó"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ß²öH
+o
+java:S3012»	"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(õÑ¯
+
+p
+java:S3012Ç	"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÛÚ¨
+M
+java:S2696Ó	"6Make the enclosing method "static" or remove this set.(¨ìÔ¾
+L
+java:S2696Ô	"6Make the enclosing method "static" or remove this set.(Ô¤ü#
+M
+java:S2696Ş	"6Make the enclosing method "static" or remove this set.(¨ìÔ¾
+L
+java:S2696ß	"6Make the enclosing method "static" or remove this set.(Ô¤ü#
+M
+java:S2696à	"6Make the enclosing method "static" or remove this set.(ÙàŒü
+R
+java:S2696á	"6Make the enclosing method "static" or remove this set.(“ü»úÿÿÿÿ
+M
+java:S2696â	"6Make the enclosing method "static" or remove this set.(ŸİôŞ
+R
+java:S2696ã	"6Make the enclosing method "static" or remove this set.(‡®½±üÿÿÿÿ
+M
+java:S2696ä	"6Make the enclosing method "static" or remove this set.(–½ûÿ
+R
+java:S2696å	"6Make the enclosing method "static" or remove this set.(¨¡ì¼úÿÿÿÿ
+R
+java:S2696æ	"6Make the enclosing method "static" or remove this set.(Ä©‘±úÿÿÿÿ
+M
+java:S2696ç	"6Make the enclosing method "static" or remove this set.(‚Û÷Ã
+Q
+java:S1161ñ	":Add the "@Override" annotation above this method signature(“–ış
+u
+java:S2142ù	"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+C
+java:S1602ü	",Remove useless curly braces around statement(ÃÉş©
+i	java:S100…
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÓæíùÿÿÿÿ
+q
+java:S1602¶
+"SRemove useless curly braces around statement and then remove useless return keyword(ë“”¸8¼‘Ñ½û1
+X
+java:S1161¸
+":Add the "@Override" annotation above this method signature(Ò—µÒ8¾‘Ñ½û1
+P
+java:S6126Á
+"2Replace this String concatenation with Text block.(ıŸøÓ8Á‘Ñ½û1
+Y
+java:S2696Ò
+"6Make the enclosing method "static" or remove this set.(†šª°ÿÿÿÿÿ8Ã‘Ñ½û1
+M
+java:S2696Ó
+"6Make the enclosing method "static" or remove this set.(õ
+M
+java:S2696Ô
+"6Make the enclosing method "static" or remove this set.(›ÈÍç
+R
+java:S2696Õ
+"6Make the enclosing method "static" or remove this set.(£»€Šøÿÿÿÿ
+R
+java:S2696Ö
+"6Make the enclosing method "static" or remove this set.(Î²·©ıÿÿÿÿ
+M
+java:S2696×
+"6Make the enclosing method "static" or remove this set.(ÿ î×
+^	java:S125³"<This block of commented-out lines of code should be removed.(–üå“øÿÿÿÿ8à‘Ñ½û1

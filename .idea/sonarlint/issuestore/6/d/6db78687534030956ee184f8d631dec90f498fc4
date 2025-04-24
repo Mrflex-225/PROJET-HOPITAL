@@ -1,0 +1,37 @@
+
+R
+java:S3740Ñ"/Provide the parametrized type for this generic.(Œ¾²èúÿÿÿÿ8ÈöÀû1
+R
+java:S3740Ü"/Provide the parametrized type for this generic.(†óéÔúÿÿÿÿ8ÉöÀû1
+M
+java:S3740ç"/Provide the parametrized type for this generic.( ƒÁ8ÉöÀû1
+T
+java:S1153ƒ"1Directly append the argument of String.valueOf().(ö¬­Àÿÿÿÿÿ8ÌöÀû1
+~	java:S116!"]Rename this field "editDoctor_address" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†œ®Úúÿÿÿÿ8„÷Àû1
+€	java:S116$"_Rename this field "editDoctor_cancelBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( œ²÷øÿÿÿÿ8„÷Àû1
+z	java:S116'"^Rename this field "editDoctor_doctorID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô÷î8„÷Àû1
+w	java:S116*"[Rename this field "editDoctor_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âí‘Ã8„÷Àû1
+z	java:S116-"^Rename this field "editDoctor_fullName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÜš»8„÷Àû1
+w	java:S1160"[Rename this field "editDoctor_garde" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ëåĞ8„÷Àû1
+}	java:S1163"\Rename this field "editDoctor_gender" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç‹¬ëúÿÿÿÿ8„÷Àû1
+€	java:S1166"_Rename this field "editDoctor_imageView" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ı™ûÿÿÿÿ8„÷Àû1
+€	java:S1169"_Rename this field "editDoctor_importBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬“¹­üÿÿÿÿ8„÷Àû1
+ƒ	java:S116<"bRename this field "editDoctor_mobileNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—üÍËşÿÿÿÿ8„÷Àû1
+	java:S116?"^Rename this field "editDoctor_password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø±µ¿ÿÿÿÿÿ8„÷Àû1
+}	java:S116B"aRename this field "editDoctor_specialized" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î¹Ü8„÷Àû1
+}	java:S116E"\Rename this field "editDoctor_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”˜´¿ıÿÿÿÿ8„÷Àû1
+€	java:S116H"_Rename this field "editDoctor_updateBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì«Ò„ùÿÿÿÿ8„÷Àû1
+w
+java:S1450Q"URemove the "result" field and declare it as a local variable in the relevant methods.(ö·±Òıÿÿÿÿ8…÷Àû1
+X
+java:S2696\"6Make the enclosing method "static" or remove this set.(µ”–áùÿÿÿÿ8Š÷Àû1
+o
+java:S3776h"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ê“8÷Àû1
+w
+java:S3012Î"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ù÷8š÷Àû1
+w
+java:S3012Ù"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(àÜÍ8œ÷Àû1
+v
+java:S3012ä"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(£óû|8÷Àû1
+Z
+java:S1128"8Remove this unused import 'javafx.application.Platform'.(§“óùÿÿÿÿ8ëäôû1

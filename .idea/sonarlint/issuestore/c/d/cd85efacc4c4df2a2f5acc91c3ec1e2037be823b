@@ -1,0 +1,40 @@
+
+o
+java:S1104"RMake style1 a static final constant or non-public and provide accessors if needed.(€æç8¢ö±ôú1
+t
+java:S1104""RMake style2 a static final constant or non-public and provide accessors if needed.(‚òĞşÿÿÿÿ8¢ö±ôú1
+v	java:S116)"URename this field "record_nom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıüŠ¢ùÿÿÿÿ8Éö±ôú1
+€	java:S116,"_Rename this field "record_patientaction" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù™Ç®üÿÿÿÿ8Éö±ôú1
+	java:S116/"`Rename this field "record_patientadresse" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€š´“ûÿÿÿÿ8Éö±ôú1
+}	java:S1162"aRename this field "record_patientdatecrea" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä±ùƒ8Éö±ôú1
+ƒ	java:S1165"bRename this field "record_patientdatemodif" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷®ÂÚşÿÿÿÿ8Éö±ôú1
+‚	java:S1168"aRename this field "record_patientdatesupp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½£œ®úÿÿÿÿ8Éö±ôú1
+	java:S116;"^Rename this field "record_patientgenre" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ÏÙµşÿÿÿÿ8Éö±ôú1
+|	java:S116>"[Rename this field "record_patientid" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë•‡úÿÿÿÿ8Éö±ôú1
+{	java:S116A"_Rename this field "record_patientnumero" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûäâŒ8Éö±ôú1
+w	java:S116D"[Rename this field "record_recherche" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â–óÿ8Éö±ôú1
+|	java:S116G"[Rename this field "record_tableview" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¥”Æÿÿÿÿÿ8Éö±ôú1
+w
+java:S1450N"URemove the "result" field and declare it as a local variable in the relevant methods.(ö·±Òıÿÿÿÿ8Ìö±ôú1
+O
+java:S6126"2Replace this String concatenation with Text block.(€æç8Îö±ôú1
+T
+java:S6126""2Replace this String concatenation with Text block.(‚òĞşÿÿÿÿ8Îö±ôú1
+o
+java:S3776}"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(²æ û8İö±ôú1
+q
+java:S1602‚"SRemove useless curly braces around statement and then remove useless return keyword(ë“”¸8ßö±ôú1
+X
+java:S1161„":Add the "@Override" annotation above this method signature(Ò—µÒ8ãö±ôú1
+Y
+java:S2696"6Make the enclosing method "static" or remove this set.(†šª°ÿÿÿÿÿ8èö±ôú1
+T
+java:S2696"6Make the enclosing method "static" or remove this set.(›ÈÍç8èö±ôú1
+Y
+java:S2696Ÿ"6Make the enclosing method "static" or remove this set.(£»€Šøÿÿÿÿ8èö±ôú1
+Y
+java:S2696 "6Make the enclosing method "static" or remove this set.(Î²·©ıÿÿÿÿ8éö±ôú1
+T
+java:S2696¡"6Make the enclosing method "static" or remove this set.(õ8éö±ôú1
+T
+java:S2696¢"6Make the enclosing method "static" or remove this set.(ÿ î×8êö±ôú1

@@ -1,0 +1,50 @@
+
+K
+java:S3740‚"/Provide the parametrized type for this generic.(Œ¾²èúÿÿÿÿ
+K
+java:S3740"/Provide the parametrized type for this generic.(†óéÔúÿÿÿÿ
+F
+java:S3740˜"/Provide the parametrized type for this generic.( ƒÁ
+w	java:S116 "]Rename this field "editDoctor_address" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†œ®Úúÿÿÿÿ
+y	java:S116#"_Rename this field "editDoctor_cancelBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( œ²÷øÿÿÿÿ
+s	java:S116&"^Rename this field "editDoctor_doctorID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô÷î
+p	java:S116)"[Rename this field "editDoctor_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âí‘Ã
+s	java:S116,"^Rename this field "editDoctor_fullName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÜš»
+p	java:S116/"[Rename this field "editDoctor_garde" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ëåĞ
+v	java:S1162"\Rename this field "editDoctor_gender" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç‹¬ëúÿÿÿÿ
+y	java:S1165"_Rename this field "editDoctor_imageView" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ı™ûÿÿÿÿ
+y	java:S1168"_Rename this field "editDoctor_importBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬“¹­üÿÿÿÿ
+|	java:S116;"bRename this field "editDoctor_mobileNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—üÍËşÿÿÿÿ
+x	java:S116>"^Rename this field "editDoctor_password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø±µ¿ÿÿÿÿÿ
+v	java:S116A"aRename this field "editDoctor_specialized" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î¹Ü
+v	java:S116D"\Rename this field "editDoctor_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”˜´¿ıÿÿÿÿ
+y	java:S116G"_Rename this field "editDoctor_updateBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì«Ò„ùÿÿÿÿ
+o
+java:S1450I"TRemove the "image" field and declare it as a local variable in the relevant methods.(“Æ²²ıÿÿÿÿ
+p
+java:S1450P"URemove the "result" field and declare it as a local variable in the relevant methods.(ö·±Òıÿÿÿÿ
+V
+java:S1854a";Remove this useless assignment to local variable "sqlDate".(šË÷‹øÿÿÿÿ
+G
+java:S1481a",Remove this unused "sqlDate" local variable.(šË÷‹øÿÿÿÿ
+o
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ù÷
+p
+java:S3012Š"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(àÜÍ
+o
+java:S3012•"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(£óû|
+Q	java:S125¾"<This block of commented-out lines of code should be removed.(í±ê-
+K
+java:S1128"5Remove this unused import 'javafx.stage.FileChooser'.(–¹ë
+[
+java:S1128"ERemove this unused import 'javafx.stage.FileChooser.ExtensionFilter'.(Ñìé¸
+?
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å
+F
+java:S1128"0Remove this unused import 'java.nio.file.Files'.(‚ƒü
+E
+java:S1128"/Remove this unused import 'java.nio.file.Path'.(×²êÂ
+F
+java:S1128"0Remove this unused import 'java.nio.file.Paths'.(áè°¯
+S
+java:S1128"=Remove this unused import 'java.nio.file.StandardCopyOption'.(×ÀòÔ

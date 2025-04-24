@@ -1,0 +1,9 @@
+
+m
+java:S1104"PMake user a static final constant or non-public and provide accessors if needed.(”ÙÚ˜8ÌÁïõö1
+G
+java:S1444"*Make this "public static user" field final(”ÙÚ˜8ÍÁïõö1
+:
+java:S2386"Make this member "protected".(”ÙÚ˜8ÒÁïõö1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ù—§Şşÿÿÿÿ8ÓÁïõö1

@@ -1,0 +1,38 @@
+
+R
+java:S3740ü"/Provide the parametrized type for this generic.(¶¯Ü€úÿÿÿÿ8„ÀÒÏú1
+ƒ
+java:S1192…"`Define a constant instead of duplicating this literal "Systeme de management d'Hopital" 3 times.(Æä™ªÿÿÿÿÿ8…ÀÒÏú1
+u	java:S116"YRename this field "login_DoctorID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨â´8¡ÁÒÏú1
+u	java:S116"YRename this field "login_checkBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á„Ô8¡ÁÒÏú1
+q	java:S116!"URename this field "login_form" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ê¦ç8¡ÁÒÏú1
+u	java:S116#"YRename this field "login_loginBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á´ÌØ8¡ÁÒÏú1
+p	java:S116%"TRename this field "login_mdp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁêÄó8¡ÁÒÏú1
+t	java:S116'"YRename this field "login_register" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹‰“8¡ÁÒÏú1
+t	java:S116)"XRename this field "login_showmdp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÔ½æ8¡ÁÒÏú1
+q	java:S116+"URename this field "login_user" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËßÊ‚8¡ÁÒÏú1
+p	java:S116-"TRename this field "main_form" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÔ³Ö8¡ÁÒÏú1
+}	java:S116/"\Rename this field "register_checkBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßæËÜşÿÿÿÿ8¡ÁÒÏú1
+x	java:S1161"\Rename this field "register_doctorID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†òçË8¡ÁÒÏú1
+u	java:S1163"YRename this field "register_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³§©ç8¡ÁÒÏú1
+y	java:S1165"XRename this field "register_form" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»–µÆÿÿÿÿÿ8¡ÁÒÏú1
+~	java:S1167"]Rename this field "register_loginhere" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»€şÂúÿÿÿÿ8¡ÁÒÏú1
+x	java:S116<"WRename this field "register_mdp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©©Ÿïşÿÿÿÿ8¡ÁÒÏú1
+z	java:S116?"^Rename this field "register_nomcomplet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Â¤Æ8¡ÁÒÏú1
+x	java:S116B"\Rename this field "register_show_mdp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì§×8¢ÁÒÏú1
+v	java:S116E"ZRename this field "register_signUp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò†·ç8¢ÁÒÏú1
+o	java:S100J"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ÿÄ¹úÿÿÿÿ8§ÁÒÏú1
+t
+java:S3776J"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(­ÿÄ¹úÿÿÿÿ8¨ÁÒÏú1
+g
+java:S1764k"ECorrect one of the identical sub-expressions on both sides of equals.(¾ÁÅ‹ÿÿÿÿÿ8®ÁÒÏú1
+S
+java:S2696}"6Make the enclosing method "static" or remove this set.(½ü¾ÿ8éãıÏú1
+S
+java:S2696~"6Make the enclosing method "static" or remove this set.(ƒ…î¶8éãıÏú1
+k	java:S100•"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÑÌ€8ÀÁÒÏú1
+p
+java:S3776•"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(áÑÌ€8ÀÁÒÏú1
+p	java:S100õ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬§ãŒüÿÿÿÿ8ÍÁÒÏú1
+w
+java:S3012ù"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(”Í€8ÎÁÒÏú1
